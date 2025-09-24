@@ -1,2 +1,25 @@
-# HR-Analytics-Dashboard
-An end-to-end HR Analytics project: data cleaning, transformation, DAX calculations, and Power BI dashboard to analyze employee demographics, attrition, promotions, and workforce trends.
+# HR Analytics Dashboard
+
+This repository contains an **HR Analytics Dashboard** created in **Power BI**.  
+The project demonstrates how raw HR data (CSV) can be cleaned, transformed, and visualized into interactive dashboards for better decision-making.
+
+## 📌 Project Workflow
+1. Imported raw HR data from CSV  
+2. Performed data cleaning & transformation  
+3. Applied **DAX functions** for calculations  
+4. Designed an **interactive dashboard** in Power BI  
+
+## 📊 Key Insights
+- Employee demographics & gender ratio  
+- Attrition vs. retention trends  
+- Promotion eligibility (Due vs. Not Due)  
+- Service year distribution  
+- Job level breakdown  
+- Distance from home status  
+
+## 🛠️ Tools & Skills Used
+- **Power BI** (Dashboard Design, DAX, Data Cleaning)  
+- **CSV Data** (Raw dataset for analysis)
+  
+## 🎯 Outcome
+This dashboard enables HR teams to quickly analyze workforce trends, track employee retention, and make **data-driven decisions**.
