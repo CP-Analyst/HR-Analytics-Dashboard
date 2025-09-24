@@ -32,4 +32,4 @@ The project demonstrates how raw HR data (CSV) can be cleaned, transformed, and 
 This dashboard enables HR teams to quickly analyze workforce trends, track employee retention, and make **data-driven decisions**.
 
 - ## 📸 Dashboard Preview
-![HR Dashboard](Screenshots/HR Dashboard.png)
+![HR Dashboard](Screenshots/HR_Dashboard.png)
