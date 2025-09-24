@@ -22,6 +22,8 @@ The project demonstrates how raw HR data (CSV) can be cleaned, transformed, and 
 - `HR Dashboard.pbix` → Power BI project file  
 - `Screenshots/` → Dashboard images  
 - `README.md` → Project documentation
+- ## 📸 Dashboard Preview
+![HR Dashboard](Screenshots/HR_dashboard.png)
 
 
 ## 🛠️ Tools & Skills Used
