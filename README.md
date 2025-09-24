@@ -15,7 +15,14 @@ The project demonstrates how raw HR data (CSV) can be cleaned, transformed, and 
 - Promotion eligibility (Due vs. Not Due)  
 - Service year distribution  
 - Job level breakdown  
-- Distance from home status  
+- Distance from home status
+
+
+## 📂 Files in this Repository
+- `HR Dashboard.pbix` → Power BI project file  
+- `Screenshots/` → Dashboard images  
+- `README.md` → Project documentation
+
 
 ## 🛠️ Tools & Skills Used
 - **Power BI** (Dashboard Design, DAX, Data Cleaning)  
